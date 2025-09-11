@@ -176,13 +176,13 @@ Output:
 """
 
 PROMPTS[
-    "entiti_continue_extraction"
-] = """MANY knowdge fragements with entities were missed in the last extraction.  Add them below using the same format:
+    "entity_continue_extraction"
+] = """MANY knowledge fragments with entities were missed in the last extraction.  Add them below using the same format:
 """
 
 PROMPTS[
-    "entiti_if_loop_extraction"
-] = """Please check whether knowdge fragements cover all the given text.  Answer YES | NO if there are knowdge fragements that need to be added.
+    "entity_if_loop_extraction"
+] = """Please check whether knowledge fragments cover all the given text.  Answer YES | NO if there are knowledge fragments that need to be added.
 """
 
 PROMPTS["fail_response"] = "Sorry, I'm not able to provide an answer to that question."
