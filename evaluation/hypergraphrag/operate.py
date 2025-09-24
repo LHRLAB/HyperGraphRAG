@@ -304,8 +304,8 @@ async def extract_entities(
         language=language,
     )
 
-    continue_prompt = PROMPTS["entiti_continue_extraction"]
-    if_loop_prompt = PROMPTS["entiti_if_loop_extraction"]
+    continue_prompt = PROMPTS["entity_continue_extraction"]
+    if_loop_prompt = PROMPTS["entity_if_loop_extraction"]
 
     already_processed = 0
     already_entities = 0
