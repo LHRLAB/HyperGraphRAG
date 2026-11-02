@@ -53,12 +53,13 @@ If you find this work is helpful for your research, please cite:
 @inproceedings{luo2025hypergraphrag,
  author = {Luo, Haoran and E, Haihong and Chen, Guanting and Zheng, Yandan and Wu, Xiaobao and Guo, Yikai and Lin, Qika and Feng, Yu and Kuang, Zemin and Song, Meina and Zhu, Yifan and Luu, Anh Tuan},
  booktitle = {Advances in Neural Information Processing Systems},
+ doi = {10.52202/085713-5089},
  editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
  pages = {152206--152234},
  publisher = {Curran Associates, Inc.},
  title = {HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation},
  url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/df55ee6e59f8ac4a625219e11fe9ddba-Paper-Conference.pdf},
- volume = {38},
+ volume = {38, Main Conference},
  year = {2025}
 }
 ```
